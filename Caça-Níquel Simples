@@ -1,0 +1,46 @@
+# 🎰 Cassino 2.0 — Caça-Níquel
+
+Projeto web simples de um jogo de caça-níquel desenvolvido com HTML, CSS e JavaScript.
+
+## 📌 Sobre o Projeto
+
+O Cassino 2.0 é um mini jogo em que o usuário começa com 100 créditos e pode realizar jogadas em uma máquina caça-níquel virtual.
+
+A cada rodada, são sorteados três símbolos. Dependendo do resultado, o jogador pode ganhar créditos ou perder a rodada.
+
+## 🎮 Funcionalidades
+
+- Sistema de saldo inicial
+- Custo por jogada
+- Animação dos símbolos girando
+- Sorteio aleatório dos resultados
+- Prêmio para 3 símbolos iguais
+- Prêmio menor para 2 símbolos iguais
+- Bloqueio do botão quando não há créditos suficientes
+- Mensagens de vitória ou derrota
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 🚀 Como Executar
+
+1. Baixe ou clone este repositório.
+2. Abra o arquivo `caca-niquel.html` no navegador.
+3. Clique em **Jogar** para iniciar.
+
+## 📁 Estrutura
+
+```text
+caca-niquel.html
+```
+
+## 👩‍💻 Autora
+
+Lais Navarro
+
+## 📚 Status
+
+✅ Projeto concluído
