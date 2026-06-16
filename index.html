@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Caça-Níquel</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div class="container">
+  <h1>CASSINO 2.0</h1>
+  <p class="saldo">Saldo: <span id="balance">100</span> créditos</p>
+
+  <div class="slot-machine">
+    <div id="reel1" class="reel">🍒</div>
+    <div id="reel2" class="reel">🍋</div>
+    <div id="reel3" class="reel">🍉</div>
+  </div>
+
+  <button id="spinBtn" onclick="jogar()">Jogar (-10 créditos)</button>
+
+  <p class="notice" id="result"></p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
